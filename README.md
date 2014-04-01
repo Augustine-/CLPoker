@@ -1,4 +1,4 @@
-pokerface
+CLPoker
 =========
 
-Command Line Poker
+Command Line Poker. Get your poker face on.
